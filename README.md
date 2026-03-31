@@ -2,8 +2,6 @@
 
 A market data pipeline that pulls, cleans, and visualizes historical stock price data using the Yahoo Finance API.
 
-Built as Project 1 of a self-directed quant finance curriculum.
-
 ---
 
 ## What it does
